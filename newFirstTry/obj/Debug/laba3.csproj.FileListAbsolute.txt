@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe.config
+C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe
+C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.exe
+C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.pdb

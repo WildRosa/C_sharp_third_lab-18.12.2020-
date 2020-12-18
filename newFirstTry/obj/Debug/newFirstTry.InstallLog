@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.exe
+   logfile = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.InstallLog
+Устанавливается служба TurboService...
+Создается исходный EventLog TurboService в журнале Application...
+Выполняется откат для сборки 'C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.exe
+   logfile = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\obj\Debug\newFirstTry.InstallLog
+Восстанавливается исходное состояние журнала событий для источника TurboService.

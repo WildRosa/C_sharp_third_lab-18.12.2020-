@@ -1,0 +1,39 @@
+﻿Выполняется установка сборки 'C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe
+   logfile = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.InstallLog
+Устанавливается служба TurboService...
+Создается исходный EventLog TurboService в журнале Application...
+Выполняется откат для сборки 'C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe
+   logfile = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.InstallLog
+Восстанавливается исходное состояние журнала событий для источника TurboService.
+Выполняется установка сборки 'C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe
+   logfile = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.InstallLog
+Устанавливается служба TurboService...
+Создается исходный EventLog TurboService в журнале Application...
+Выполняется откат для сборки 'C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe
+   logfile = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.InstallLog
+Восстанавливается исходное состояние журнала событий для источника TurboService.
+Выполняется установка сборки 'C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe
+   logfile = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.InstallLog
+Устанавливается служба phara...
+Служба phara успешно установлена.
+Создается исходный EventLog phara в журнале Application...
+Выполняется фиксация сборки 'C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.exe
+   logfile = C:\Users\User\Desktop\ThirdLab\finaltry\newFirstTry\bin\Debug\newFirstTry.InstallLog
